@@ -1,0 +1,35 @@
+.container {
+    height: 100%;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 60px auto auto 60px;
+    grid-template-areas: 
+        "h h h h h h h h h h h h"
+        "s s s s a a a a a a a a"
+        "s s s s b b b b c c c c"
+        "f f f f f f f f f f f f";
+}
+.header {
+    grid-area: h;
+}
+
+.sidebar {
+    grid-area: s;
+}
+
+.container-1 {
+    grid-area: a;
+}
+
+.container-2 {
+    grid-area: b;
+}
+
+.container-3{
+    grid-area: c;
+}
+
+.footer {
+    grid-area: f;
+}
