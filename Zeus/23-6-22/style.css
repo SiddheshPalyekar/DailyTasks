@@ -1,1 +1,10 @@
-body{}
+#submit_btn{
+    
+}
+.random{
+    color: gray;
+}
+table{
+    background-color: lightgrey;
+    border-color: rgb(29, 28, 28);
+}
