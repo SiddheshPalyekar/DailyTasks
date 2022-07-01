@@ -14,7 +14,7 @@ font-size: 16px;
 font-weight: 500;
 }
 #header-pattern {
-background-image: url("/images/header\ pattern\ svg.svg");
+background-image: url("/images/header_pattern.svg");
 width: 100%;
 height: 47px;
 border-bottom: 3px solid #31b9e4;
@@ -48,7 +48,7 @@ opacity: 1;
 
 h2 {
 text-align: center;
-font: normal normal medium 24px/28px;
+font: normal normal medium;
 letter-spacing: 0px;
 color: #222222;
 opacity: 1;
@@ -70,7 +70,7 @@ margin-top: 34px;
 width: 20px;
 height: 24px;
 text-align: left;
-font: normal normal normal 24px/17px;
+font: normal normal normal;
 letter-spacing: 0px;
 opacity: 1;
 margin-right: 8px;
@@ -83,7 +83,7 @@ font-size: 16px;
 font-weight: 600;
 margin-top: 2px;
 text-align: left;
-font: normal normal medium 16px/20px;
+font: normal normal medium;
 letter-spacing: 0px;
 color: #333333;
 opacity: 1;
@@ -93,7 +93,7 @@ opacity: 1;
 width: 20px;
 height: 24px;
 text-align: left;
-font: normal normal normal 24px/17px ;
+font: normal normal normal;
 letter-spacing: 0px;
 opacity: 1;
 margin-left: 51px;
@@ -102,7 +102,7 @@ margin-right: 8px;
 
 #independent {
 margin-top: 2px;
-font: normal normal medium 16px/20px ;
+font: normal normal medium;
 letter-spacing: 0px;
 color: #333333;
 opacity: 1;
@@ -180,7 +180,7 @@ border-bottom: 1px solid #eeeeee;
 text-align: right;
 height: 18px;
 text-align: right;
-font: normal normal medium 14px ;
+font: normal normal medium;
 letter-spacing: 0px;
 color: #1F7A54;
 text-transform: uppercase;
@@ -247,7 +247,7 @@ justify-content: center;
 
 .about > a, p{
 text-decoration: none;
-font: normal normal medium 14px/18px ;
+font: normal normal medium;
 letter-spacing: 0px;
 color: #1F7A54;
 padding-left: 10px;
