@@ -11,7 +11,7 @@ body {
 }
 
 .navbar {
-  background:  url("./images/header\ pattern\ svg.svg"), url("./images/header pattern image.png") ;
+  background:  url("images/header_pattern.svg"), url("./images/header pattern image.png") ;
   background-size: cover;
   width: 100%;
   height: 56px;
